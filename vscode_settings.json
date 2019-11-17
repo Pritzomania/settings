@@ -10,8 +10,8 @@
   // this isn't really underline but we hack it to be a thicker cursor
   "editor.cursorStyle": "line",
   "editor.wordWrap": "on",
-  "editor.multiCursorModifier": "ctrlCmd",
   "editor.fontWeight": "400",
+  "editor.fontSize": 14,
   "editor.cursorBlinking": "solid",
   "editor.colorDecorators": false,
   "editor.minimap.enabled": true,
@@ -62,5 +62,8 @@
   "editor.useTabStops": true,
   "editor.formatOnPaste": true,
   "window.zoomLevel": 0,
-  "editor.parameterHints.enabled": true
+  "editor.parameterHints.enabled": true,
+  "editor.fontFamily": "'Cascadia Code','Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Cobalt2"
 }
